@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name motherboard)(type KiCad)(uri /Users/ben/Desktop/M2I/CySat-Motherboard-master/motherboard.pretty)(options "")(descr ""))
+)
